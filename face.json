@@ -1,0 +1,12 @@
+{
+  "blockFormat": "TKM1",
+  "fixedLayoutVersion": 1,
+  "compression": "gzip",
+  "graphIdentityVersion": "s2-midpoint-v2",
+  "face": 4,
+  "blockCount": 88835,
+  "compressedBytes": 6878280770,
+  "buildIdentity": "01b59028406b472736f1df706f2590239a90f5c345655a0fb19c2438e5833547",
+  "sourceBlocks": 389133,
+  "format": 3
+}
